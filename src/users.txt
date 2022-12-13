@@ -1,0 +1,3 @@
+kHA NG,0,20
+Khang,20,20
+Khang,202,20
